@@ -82,9 +82,7 @@ python manage.py runserver
 - Django for the web framework.
 - SQLite for the database.
 
-## Contact
 
-For any questions or feedback, please contact [Bhargav Gurav](mailto:bhargavmonstergurav@gmail.com).
 
 
 
