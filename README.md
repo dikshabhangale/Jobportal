@@ -22,7 +22,7 @@ This is a Job Portal website built using Django, Bootstrap, and SQLite database.
 
 1. Clone the repository:
 
-git clone https://github.com/BhargavGurav/jobportal.git
+git clone https://github.com/dikshabhangale/jobportal.git
 
 
 2. Navigate to the project directory:
